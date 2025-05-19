@@ -1,7 +1,6 @@
 # SikumAI
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/47f046ea-e711-40b1-86c0-4a014b527d5d)
-" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3b3cc307-df2e-4093-9c9b-3c412e1fc441" width="300"/>
 </p>
 
 ## Live Demo
