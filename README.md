@@ -1,6 +1,8 @@
 # SikumAI
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b3cc307-df2e-4093-9c9b-3c412e1fc441" width="300"/>
+  <a href="https://sikumai.com/">
+    <img src="https://github.com/user-attachments/assets/3b3cc307-df2e-4093-9c9b-3c412e1fc441" width="300"/>
+  </a>
 </p>
 
 ## Live Demo
