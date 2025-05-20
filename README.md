@@ -5,6 +5,16 @@
   </a>
 </p>
 
+## App Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71baac08-7f3a-474a-9de0-f87564491ea0" width="19%" alt="Home Screen" />
+  <img src="https://github.com/user-attachments/assets/4363b7dc-4d7c-468c-821a-3d8bb235da39" width="19%" alt="Upload Screen" />
+  <img src="https://github.com/user-attachments/assets/b6c297b2-ce76-47cd-a765-fba24488b7a7" width="19%" alt="Quiz Screen" />
+  <img src="https://github.com/user-attachments/assets/57612396-ba22-409b-bdf7-8688c2da975e" width="19%" alt="Results Screen" />
+  <img src="https://github.com/user-attachments/assets/bc9f04c2-61cc-4f46-81eb-7c170002e79e" width="19%" alt="Settings Screen" />
+</p>
+
 ## Live Demo
 
 Visit [sikumai.com](https://sikumai.com) to see a live demo of the project. The platform is available to everyone and demonstrates the full functionality of the SikumAI application.
